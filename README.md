@@ -1,21 +1,85 @@
-## Hi there 👋
+<div align="center">
+  <h1>Привет, я Роман 👋</h1>
+  <p><b>Frontend-разработчик (React / TypeScript)</b></p>
+  
+  <a href="https://t.me/RomanUsad">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:usankin.roma@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Romik1999">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=for-the-badge" alt="Open to work" />
+</div>
 
-<!--
-**Romik1999/Romik1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Обо мне
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend-разработчик с **7+ годами опыта**. Специализируюсь на проектировании архитектуры модульных фронтенд-платформ на базе **Feature-Sliced Design (FSD)**.
 
-**Мои инструменты:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Умею работать со сложными интерфейсами: real-time коллаборация, кастомные редакторы текста, Gantt-диаграммы, канбан с Drag-and-Drop и виртуализация тяжелых списков. Выстраиваю инфраструктуру качества: кодогенерация контрактов, quality-gate, Docker-пайплайны, покрытие тестами.
+
+### 🎯 Что ищу
+
+- **Позиция:** Frontend Developer (уровень Middle+ / Senior)
+- **Формат:** Удалённо / Гибрид / Офис (Москва)
+- **Занятость:** Полная
+- **Интересно:** Продукты с высокой сложностью интерфейсов, нетривиальными инженерными задачами, real-time и высокими нагрузками.
+
+### 🛠 Мой стек
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Effector](https://img.shields.io/badge/Effector-FF7A00?style=for-the-badge&logo=effector&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
+![FSD](https://img.shields.io/badge/Architecture-Feature--Sliced_Design-success?style=for-the-badge)
+![TanStack](https://img.shields.io/badge/TanStack_Query_%2F_Table_%2F_Virtual-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Relay](https://img.shields.io/badge/Relay-F26B00?style=for-the-badge&logo=relay&logoColor=white)
+
+### 🚀 Ключевые кейсы (Коммерческий опыт)
+
+<details>
+  <summary><b>Корпоративная платформа управления проектами (KR Digital)</b></summary>
+  <br>
+  <i>Модульная архитектура (4+ SPA на FSD), команда из 7 фронтендеров.</i>
+  <br><br>
+  
+  * **Модуль «Wiki / База знаний»**: Спроектировал real-time совместное редактирование на <b>Lexical + Yjs + y-websocket</b>. Построил расширяемую плагинную архитектуру редактора (кастомные ноды). Разработал собственный HTML-diff движок с нормализацией CSS Modules.
+  * **Модуль «Управление командой»**: Реализовал кастомный <b>Gantt-движок</b> на React + SVG + Effector. Построил DnD orchestration на dnd-kit с optimistic-обновлениями. Внедрил двухуровневую виртуализацию (TanStack Virtual + собственный движок таймлайна) — стабильные 60 FPS при 500+ элементах.
+  * **Модуль «Трекер задач»**: Спроектировал гибридный state-management (Effector + TanStack Query). Реализовал real-time обновление через <b>SSE/WebSocket</b> с topic-based маршрутизацией.
+  * **Модуль «Статус»**: Спроектировал гибридный data-layer (GraphQL/Relay для доменных данных + REST для отчётов). Реализовал журнал событий с cursor-based пагинацией.
+  * **Инфраструктура**: Настроил pre-commit quality-gate (ESLint, Prettier, type-check), Docker multi-stage сборки, кодогенерацию контрактов (OpenAPI, GraphQL Codegen), покрытие тестами (Vitest, RTL).
+</details>
+
+<details>
+  <summary><b>Финансовый медиапортал (GIDFINANCE MEDIA)</b></summary>
+  <br>
+  
+  * Разработал систему учёта лидов с автоматической сортировкой офферов и передачей данных по API в партнёрские системы.
+  * Создал шаблонные витринные сайты, интегрировал их в систему генерации лидов (Vue, PHP/Yii2, Bitrix).
+  * Оптимизировал скорость загрузки витрин, что улучшило конверсию.
+</details>
+
+<details>
+  <summary><b>Веб-студия «Департамент сайтов»</b></summary>
+  <br>
+  
+  * Участвовал в разработке самописной CMS «NetShaper» (Vue, Laravel).
+  * Занимался версткой и интеграцией шаблонов в популярные CMS (Bitrix, WordPress, ModX).
+</details>
+
+### 🎓 Образование
+- **Магистр**, СамГТУ — Управление качеством (2024)
+- **Бакалавр**, СамГТУ — Информационная безопасность телекоммуникационных систем (2021)
+
+---
+<div align="center">
+  <i>Всегда открыт к интересным предложениям. Пишите в Telegram — отвечу быстро!</i>
+</div>
