@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Привет, я Роман 👋</h1>
-  <p><b>Frontend-разработчик (React / TypeScript)</b></p>
+  <p><b>Frontend-разработчик (React / TypeScript / Python)</b></p>
   
   <a href="https://t.me/RomanUsad">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -17,6 +17,49 @@
 
 ---
 
+### 🛠 Мой стек
+
+**Frontend Core:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**State Management & Data Fetching:**
+![Effector](https://img.shields.io/badge/Effector-FF7A00?style=for-the-badge&logo=effector&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query_%2F_Table_%2F_Virtual-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Relay](https://img.shields.io/badge/Relay-F26B00?style=for-the-badge&logo=relay&logoColor=white)
+
+**Стилизация и UI:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+**Тестирование и Инструменты:**
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+<br>
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FSD](https://img.shields.io/badge/Architecture-Feature--Sliced_Design-success?style=for-the-badge)
+
+**Backend & Дополнительно:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
 ### 👨‍💻 Обо мне
 
 Frontend-разработчик с **7+ годами опыта**. Специализируюсь на проектировании архитектуры модульных фронтенд-платформ на базе **Feature-Sliced Design (FSD)**.
@@ -29,19 +72,6 @@ Frontend-разработчик с **7+ годами опыта**. Специа�
 - **Формат:** Удалённо / Гибрид / Офис (Москва)
 - **Занятость:** Полная
 - **Интересно:** Продукты с высокой сложностью интерфейсов, нетривиальными инженерными задачами, real-time и высокими нагрузками.
-
-### 🛠 Мой стек
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Effector](https://img.shields.io/badge/Effector-FF7A00?style=for-the-badge&logo=effector&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-<br>
-![FSD](https://img.shields.io/badge/Architecture-Feature--Sliced_Design-success?style=for-the-badge)
-![TanStack](https://img.shields.io/badge/TanStack_Query_%2F_Table_%2F_Virtual-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Relay](https://img.shields.io/badge/Relay-F26B00?style=for-the-badge&logo=relay&logoColor=white)
 
 ### 🚀 Ключевые кейсы (Коммерческий опыт)
 
