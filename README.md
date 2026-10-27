@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Привет, я Роман 👋&nbsp;<img src="https://img.shields.io/badge/Open_to_Work-brightgreen?style=for-the-badge" alt="Open to work" valign="middle" /></h1>
-  <p><b>Frontend-разработчик (React / TypeScript / Python)</b></p>
+  <p><b>Fullstack-разработчик (React / TypeScript / Python)</b></p>
 
   <a href="https://t.me/RomanUsad">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
